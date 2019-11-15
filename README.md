@@ -11,3 +11,12 @@ There are two version of the board: 1. Board with additional connections and LED
                                     2. Board without connections and LEDs
 
 Tests has been manually executed in NI TestStand. The board was connected via NI myRIO.
+
+Board without testpoints:
+
+![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Schematic.PNG)
+![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Board.PNG)
+
+Board with testpoints:
+![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Schematic_test.PNG)
+![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Board_test.PNG)
