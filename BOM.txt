@@ -1,0 +1,52 @@
+
+Part  Value    Device       Package Description                        
+IC2   74HC595N 74HC595N     DIL16   8-bit SHIFT REGISTER, output latch 
+IC3   74HC595N 74HC595N     DIL16   8-bit SHIFT REGISTER, output latch 
+JP1            PINHD-2X17   2X17    PIN HEADER                         
+JP2            PINHD-1X3    1X03    PIN HEADER                         
+JP3            PINHD-1X17   1X17    PIN HEADER                         
+JP4            PINHD-1X5    1X05    PIN HEADER                         
+JP5            PINHD-1X6    1X06    PIN HEADER                         
+JP6            PINHD-2X17   2X17    PIN HEADER                         
+JP7            PINHD-1X6    1X06    PIN HEADER                         
+JP8            PINHD-1X2    1X02    PIN HEADER                         
+LED1           LED3MM       LED3MM  LED                                
+LED2           LED3MM       LED3MM  LED                                
+LED3           LED3MM       LED3MM  LED                                
+LED4           LED3MM       LED3MM  LED                                
+LED5           LED3MM       LED3MM  LED                                
+LED6           LED3MM       LED3MM  LED                                
+LED7           LED3MM       LED3MM  LED                                
+LED8           LED3MM       LED3MM  LED                                
+LED9           LED3MM       LED3MM  LED                                
+LED10          LED3MM       LED3MM  LED                                
+LED11          LED3MM       LED3MM  LED                                
+LED12          LED3MM       LED3MM  LED                                
+LED14          LED3MM       LED3MM  LED                                
+LED15          LED3MM       LED3MM  LED                                
+LED16          LED3MM       LED3MM  LED                                
+LED17          LED3MM       LED3MM  LED                                
+LED18          LED3MM       LED3MM  LED                                
+R1    470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R2    470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R3    470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R4    470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R5    470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R6    220      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R7    10k      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R8    10k      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R9    10k      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R10   10k      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R11   10k      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R12   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R13   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R14   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R15   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R16   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R17   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R18   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R19   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R20   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R22   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R23   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
+R24   470      R-EU_0207/10 0207/10 RESISTOR, European symbol          
