@@ -20,3 +20,7 @@ Tests has been manually executed in NI TestStand. The board was connected via NI
 ## Board with testpoints:
 <img src="https://github.com/Fysek/MidiController/blob/master/Photos/Schematic_test.PNG" width="600"/>
 <img src="https://github.com/Fysek/MidiController/blob/master/Photos/Board_test.PNG" width="600"/>
+
+## Testing with NI myRIO:
+<img src="https://github.com/Fysek/MidiController/blob/master/Photos/IMG_20180614_170346.jpg" width="600"/>
+<img src="https://github.com/Fysek/MidiController/blob/master/Photos/IMG_20180621_160250.jpg" width="600"/>
