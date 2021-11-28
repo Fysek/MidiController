@@ -14,9 +14,9 @@ Tests has been manually executed in NI TestStand. The board was connected via NI
 
 ## Board without testpoints:
 
-![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Schematic.PNG)
-![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Board.PNG)
+<img src="https://github.com/Fysek/MidiController/blob/master/Photos/Schematic.PNG" width="600"/>
+<img src="https://github.com/Fysek/MidiController/blob/master/Photos/Board.PNG" width="600"/>
 
 ## Board with testpoints:
-![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Schematic_test.PNG)
-![alt text](https://github.com/Fysek/MidiController/blob/master/Photos/Board_test.PNG)
+<img src="https://github.com/Fysek/MidiController/blob/master/Photos/Schematic_test.PNG" width="600"/>
+<img src="https://github.com/Fysek/MidiController/blob/master/Photos/Board_test.PNG" width="600"/>
